@@ -1,4 +1,4 @@
-<H1> align="center">Projeto de Desenvolvimento Web - Edi Bolos</H1>
+<H1 align="center">Projeto de Desenvolvimento Web - Edi Bolos</H1>
 <br>
 
 <img src="img/image2.png" border="0" width="500"></a>
@@ -11,7 +11,7 @@
 
 <H3>Integrantes:</H3>
 <ul>
-<li><a href="">Eduardo(Eu)</a></li>
+<li><a href="https://github.com/Edu-Amorim2">Eduardo(Eu)</a></li>
 <li><a href="https://github.com/GuilhermeHSV">Guilherme</a></li>
 <li><a href="https://github.com/GustavoSantos69">Gustavo</a></li>
 <li><a href="https://github.com/LucasFelippe011">Lucas</a></li>
