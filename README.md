@@ -5,7 +5,7 @@
 </div>
 <H3>Descrição do Projeto:</H3>
 <br>
-<p>O objetivo deste projeto foi desenvolver um site dinâmico onde o cliente possa divulgar e vender seus produtos. O site permite que o cliente, sem a necessidade de codificação, adicione, edite ou exclua produtos facilmente.</p>
+<p>O objetivo deste projeto REAL foi desenvolver um site dinâmico onde o cliente possa divulgar e vender seus produtos. O site permite que o cliente, sem a necessidade de codificação, adicione, edite ou exclua produtos facilmente.</p>
 
 <p><b>Projeto Integrador do curso Técnico em Informática, na área de Desenvolvimento de Sistemas.</b></p>
 
