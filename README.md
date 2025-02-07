@@ -11,7 +11,7 @@
 
 <H3>Integrantes:</H3>
 <ul>
-<li><a href="https://github.com/Edu-Amorim2">Eduardo(Eu)</a></li>
+<li><a href="https://github.com/Edu-Ramos-dev">Eduardo(Eu)</a></li>
 <li><a href="https://github.com/GuilhermeHSV">Guilherme</a></li>
 <li><a href="https://github.com/GustavoSantos69">Gustavo</a></li>
 <li><a href="https://github.com/LucasFelippe011">Lucas</a></li>
